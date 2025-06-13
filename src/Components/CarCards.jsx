@@ -2,7 +2,7 @@ import "./CarCards.css"
 import CarPic from "./CarPic"
 import CusButton from "./CusButton"
 
-const CarCards = ({pictures}) => {
+const CarCards = ({pictures, carText, carText2}) => {
 
   const buyNow = () =>{
     alert("You have bought the car successfully")
