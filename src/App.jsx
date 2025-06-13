@@ -78,22 +78,22 @@ const App = () => {
         </div>
 
       <div className="grid">
-        <CarCards pictures="./images/BMW_Logo.png" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/bmw_3_series.png" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/bmw_X6_series.png" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/New_BMW_Cars.png" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/The_BMW_M_Series.png" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/2025_BMW_7.jpg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/2025_BMW_i7.jpeg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/BMW_5_Series.jpg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/bmw_7_series.jpg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/BMW_Cars.jpeg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/BMW_Group.jpg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/BMW_Jeep.jpg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/bmw_M_series.jpg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/New_BMW_Car.jpg" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/The_BMW_M_Series.png" carText="This is a BMW car" carText2="Welcome to BMW"/>
-        <CarCards pictures="./images/BMW_Jeep.jpg" carText="This is a BMW car" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/BMW_Logo.png" carText="BMW Logo" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/bmw_3_series.png" carText="BMW 3 Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/bmw_X6_series.png" carText="BMW X6 Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/New_BMW_Cars.png" carText="Brand new BMW cars" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/The_BMW_M_Series.png" carText="The BMW M Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/2025_BMW_7.jpg" carText="Brand new BMW 7 Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/2025_BMW_i7.jpeg" carText="Brand new BMW i7 Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/BMW_5_Series.jpg" carText="BMW 5 Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/bmw_7_series.jpg" carText="BMW 7 Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/BMW_Cars.jpeg" carText="BMW Cars" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/BMW_Group.jpg" carText="BMW Group car" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/BMW_Jeep.jpg" carText="Brand new BMW Jeep" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/bmw_M_series.jpg" carText="BMW M Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/New_BMW_Car.jpg" carText="BMW New Cars" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/The_BMW_M_Series.png" carText="Brand new BMW M Series" carText2="Welcome to BMW"/>
+        <CarCards pictures="./images/BMW_Jeep.jpg" carText="BMW Jeep" carText2="Welcome to BMW"/>
       </div>
 
     </>
