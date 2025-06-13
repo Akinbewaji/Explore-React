@@ -1,9 +1,9 @@
 import './SmallCard.css'
 
-const SmallCard = () => {
+const SmallCard = ({pictures,  carText2}) => {
   return (
     <div className='smallCard'>
-        SmallCard
+       <p className="secondText">{carText2}</p>
     </div>
   )
 }
